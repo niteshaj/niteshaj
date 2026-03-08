@@ -2,7 +2,7 @@
 
 ## Senior Technical Lead | Cloud Architecture & Design | AWS | Microservices | Platform Engineering | Java
 
-Senior Technical Lead and Cloud Architecture in designing scalable, secure, and resilient cloud-native architectures. I lead a high-performance team to deliver scalable and resilient distributed systems with an agile mindset. Experienced in platform engineering, microservices, and infrastructure as code, aligning business strategy with robust cloud solutions. Passionate about leveraging Data Analytics and Generative AI to drive innovation and enterprise transformation.
+Senior Technical Lead with strong expertise in Cloud Architecture, specializing in designing scalable, secure, and resilient cloud-native systems. Proven ability to lead a high-performance engineering team in building scalable and resilient distributed systems with an agile mindset. Experienced in platform engineering, microservices architecture, and infrastructure as code, enabling organizations to align business strategy with robust and reliable cloud solutions. Passionate about exploring emerging AI trends such as Generative AI and Agentic AI to drive innovation and enterprise transformation.
 
 ### 👤 About Me
 
