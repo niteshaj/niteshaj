@@ -6,7 +6,7 @@ Senior Technical Lead with strong expertise in Cloud Architecture, specializing 
 
 ### 👤 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nitesh-jawanjal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-jawanjal)
 
 
 ### 🛠️ Skills
