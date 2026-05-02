@@ -8,6 +8,8 @@ Senior Technical Lead with strong expertise in Cloud Architecture, specializing 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-jawanjal)
 
+### AI Certification
+[Elements of AI Agents](https://academy.dair.ai/verify/cmoo9w0v3000j04js0zaj0ven)
 
 ### 🛠️ Skills
 
