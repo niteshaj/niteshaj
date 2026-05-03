@@ -10,6 +10,7 @@ Senior Technical Lead with strong expertise in Cloud Architecture, specializing 
 
 ### AI Certification and Courses
 [Elements of AI Agents](https://academy.dair.ai/verify/cmoo9w0v3000j04js0zaj0ven)
+[Introduction to LangChain - Python](https://academy.langchain.com/certificates/gqg1odfd3i)
 
 ### 🛠️ Skills
 
